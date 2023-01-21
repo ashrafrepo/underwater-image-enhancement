@@ -5,11 +5,11 @@ A common challenge in the research of image enhancement is the availability of r
 3) images taken at a depth of two-three meters (D3).
 
 The Geneinno T1 Pro[1] Remotely Operated Vehicle (ROV) shown in the figure below is used to collect the images at a resolution of 3840×2160 pixel. The specifications of the CMOS camera that is equipped on the ROV are also shown in the table below.
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](/Supp/Samples.png)
+![This is an image](/Supp/Geneinno.png)
+![This is an image](/Supp/Specs.png)
 
 Sample images from the three proposed depths are shown in the figure below where the effect of even such a minor depth difference can be clearly and easily noticed on the three groups of images. 
-![This is an image](Supp/Samples.png)
+![This is an image](/Supp/Samples.png)
 
 Please cite this work:
 @article{Saleem2022,
