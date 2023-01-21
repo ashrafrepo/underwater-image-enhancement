@@ -16,6 +16,9 @@ Sample images from the three proposed depths are shown in the figure below where
 
 ![This is an image](/Supp/Samples.png)
 
+Refs:
+[1] https://geneinno.us/products/geneinno-t1-pro-underwater-drone
+
 Please cite this work:
 @article{Saleem2022,
 }
