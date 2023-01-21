@@ -1,4 +1,4 @@
-# A Challenging Dataset for Underwater Image Enhancement
+# A Challenging Dataset for Underwater Image Enhancement (CDUIE)
 A common challenge in the research of image enhancement is the availability of real-world data. This real-world underwater dataset is very challenging for state-of-the-art image enhancement models due to the severe degradation in the captured images added by the extremely turbid lake environment and low-light conditions. The collected dataset contains 100 RGB underwater images from three different geographical locations, namely Lake Linden, Chassell Bay, and Portage Lake in Michigan, USA. The images are separated based on depth into three groups:
 1) images taken at a depth of less than one meter (D1).
 2) images taken at a depth of one-two meters (D2).
